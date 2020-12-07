@@ -1,0 +1,22 @@
+{
+  "name": "react-professionalbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xyzsam123/react-professionalbackend.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "sameer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xyzsam123/react-professionalbackend/issues"
+  },
+  "homepage": "https://github.com/xyzsam123/react-professionalbackend#readme"
+}
